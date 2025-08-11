@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+requests
+# the actual Round_2_Solution requirements should be installed too.
+# After copying your Round_2_Solution into Back-end/round1b, do:
+# pip install -r Back-end/round1b/requirements.txt
